@@ -1,0 +1,14 @@
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\bin\Debug\net8.0\AgeOfWarApplication.exe
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\bin\Debug\net8.0\AgeOfWarApplication.deps.json
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\bin\Debug\net8.0\AgeOfWarApplication.runtimeconfig.json
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\bin\Debug\net8.0\AgeOfWarApplication.dll
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\bin\Debug\net8.0\AgeOfWarApplication.pdb
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\obj\Debug\net8.0\AgeOfWarApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\obj\Debug\net8.0\AgeOfWarApplication.AssemblyInfoInputs.cache
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\obj\Debug\net8.0\AgeOfWarApplication.AssemblyInfo.cs
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\obj\Debug\net8.0\AgeOfWarApplication.csproj.CoreCompileInputs.cache
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\obj\Debug\net8.0\AgeOfWarApplication.dll
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\obj\Debug\net8.0\refint\AgeOfWarApplication.dll
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\obj\Debug\net8.0\AgeOfWarApplication.pdb
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\obj\Debug\net8.0\AgeOfWarApplication.genruntimeconfig.cache
+D:\C\AgeOfWar\AgeOfWarApplication\AgeOfWarApplication\obj\Debug\net8.0\ref\AgeOfWarApplication.dll
